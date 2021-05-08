@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PJKv9ywNjPatiHV5rl68tcn3ltvf6NYok6pIY/hiNSWZM06DoanlAZDMkQpPc5VxUauLQAH2PyMcZI0mH8pW9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Quinto Semestre\\Programación III\\pilas\\pilas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

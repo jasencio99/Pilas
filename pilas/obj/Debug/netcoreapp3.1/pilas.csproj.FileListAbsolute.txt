@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\obj\Debug\netcoreapp3.1\pilas.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\obj\Debug\netcoreapp3.1\pilas.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\obj\Debug\netcoreapp3.1\pilas.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\obj\Debug\netcoreapp3.1\pilas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\bin\Debug\netcoreapp3.1\pilas.exe
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\bin\Debug\netcoreapp3.1\pilas.deps.json
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\bin\Debug\netcoreapp3.1\pilas.runtimeconfig.json
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\bin\Debug\netcoreapp3.1\pilas.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\bin\Debug\netcoreapp3.1\pilas.dll
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\bin\Debug\netcoreapp3.1\pilas.pdb
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\obj\Debug\netcoreapp3.1\pilas.dll
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\obj\Debug\netcoreapp3.1\pilas.pdb
+C:\Users\DELL\Desktop\Quinto Semestre\Programación III\pilas\obj\Debug\netcoreapp3.1\pilas.genruntimeconfig.cache
